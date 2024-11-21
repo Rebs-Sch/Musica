@@ -1,1 +1,1 @@
-#Por favor ignorar meus comentários ao decorrer do código... :')
+Por favor ignorar meus comentários ao decorrer do código
